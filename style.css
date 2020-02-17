@@ -1,0 +1,69 @@
+td {
+	text-align: left;
+	font-family:tahoma;
+	font-size:11px;
+	color:#6D6D6D;
+	line-height:13px;
+}
+a {	text-decoration: none;
+	color:#136BA6;}
+
+body { 	margin:0px;padding:0px; background-color:#FFFFFF}
+
+.copy{
+font-family:tahoma;
+font-size:11px;
+color:#969696;
+}
+
+.gray {color:#6D6D6D; text-decoration:none}
+.blue {color:#136BA6; text-decoration:none}
+.orange {color:#FF9600; text-decoration:none}
+
+.sm {font-size:9px}
+.u {text-decoration:underline}
+.t {text-transform:uppercase}
+.big {font-size:11px}
+
+.form { width:290px;
+		height:19px;
+		font-family:tahoma;
+		font-size:11px;
+		border-style:;
+		border-width:;
+		border-color:#;
+		background-color:#;
+		color:#;
+		margin-left:0px;
+		margin-right:0px}
+		
+.textarea { width:290px;
+		height:114px;
+		font-family:tahoma;
+		font-size:11px;
+		border-style:;
+		border-width:;
+		border-color:#;
+		background-color:#;
+		color:#;
+		overflow:auto;
+		margin-left:0px;
+		margin-right:0px}
+
+.rollover {scrollbar-face-color:#4A483E;
+		scrollbar-track-color:#FAF4D3;
+		scrollbar-arrow-color:#FAF4D3;
+		scrollbar-3Dlight-color:#FAF4D3;
+		scrollbar-base-color:#FAF4D3;
+		scrollbar-shadow-color:#FAF4D3;
+		scrollbar-darkshadow-color:#FAF4D3;
+		scrollbar-highlight-color:#FAF4D3;
+		}
+
+
+a:hover{text-decoration:underline;}
+#a:hover{text-decoration:none;}
+
+
+
+
